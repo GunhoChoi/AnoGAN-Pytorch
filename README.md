@@ -1,1 +1,1 @@
-# Anogan-Pytorch
+# AnoGAN-Pytorch
